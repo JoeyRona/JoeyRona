@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an image editor app.<br>👯 I’m looking to collaborate on the prototype of an app as a service to my college.<br>🤝 I’m looking for help with Python.<br>🌱 I’m currently learning Cryptography, more in-depth programming applications and concepts, Software Engineering practices and, Network theory and infrastructure.<br> 
+🔭 I’m currently working on an image editor app.<br>👯 I’m looking to collaborate on the prototype of an app as a service to my college.<br><br>🌱 I’m currently learning Cryptography, more in-depth programming applications and concepts, Software Engineering practices and, Network theory and infrastructure.<br> 
 
 
 ## 🌐 Socials:
