@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning mongoDB.<br><br><br>🌱.<br> 
+🔭 I’m currently learning Python to work on an assignment surrounding AWS.<br><br><br>🌱.<br> 
 
 
 ## 🌐 Socials:
