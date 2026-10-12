@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently building on my Python knowledge to work on an assignment surrounding AWS.<br><br><br>🌱.<br> 
+🔭 I’m currently building on my Python knowledge to work on an assignment surrounding AWS.<br><br>
 
 
 ## 🌐 Socials:
